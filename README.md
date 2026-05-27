@@ -1,4 +1,4 @@
-# Hi there, I'm Pranav 👋
+# Hi there, I'm Pranav 
 
 I'm a Computer Engineering student at Purdue University (2nd year) who enjoys
 building things and exploring data. Currently focused on cloud and web development.
