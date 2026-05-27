@@ -3,7 +3,7 @@
 I'm a Computer Engineering student at Purdue University (2nd year) who enjoys
 building things and exploring data. Currently focused on cloud and web development.
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
